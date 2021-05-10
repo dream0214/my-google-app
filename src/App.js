@@ -22,7 +22,7 @@ justify-content:flex-start;
 `
 
 const Footer1 = styled.div`
-margin-top:350px;
+margin-top:310px;
   color:${props => props.theme.fontColor || 'gray'};
   align-content:flex-end;
   padding-left:30px;
